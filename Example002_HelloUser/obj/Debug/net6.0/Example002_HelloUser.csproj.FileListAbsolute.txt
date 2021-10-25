@@ -1,0 +1,16 @@
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\bin\Debug\net6.0\ref\Example002_HelloUser.dll
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GlobalUsings.g.cs
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+D:\Geekbrains\Домашняя работа homework\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
