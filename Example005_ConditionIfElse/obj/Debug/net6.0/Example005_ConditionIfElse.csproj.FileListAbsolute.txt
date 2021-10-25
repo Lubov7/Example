@@ -1,0 +1,16 @@
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.exe
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.deps.json
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.runtimeconfig.json
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.dll
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\ref\Example005_ConditionIfElse.dll
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.pdb
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.GlobalUsings.g.cs
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.AssemblyReference.cache
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfo.cs
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.dll
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\ref\Example005_ConditionIfElse.dll
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.pdb
+D:\Geekbrains\Домашняя работа homework\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.genruntimeconfig.cache
