@@ -1,0 +1,16 @@
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.exe
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.deps.json
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.runtimeconfig.json
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.dll
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\bin\Debug\net6.0\ref\Example004_Div.dll
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\bin\Debug\net6.0\Example004_Div.pdb
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.GlobalUsings.g.cs
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.AssemblyReference.cache
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfoInputs.cache
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.AssemblyInfo.cs
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.dll
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\obj\Debug\net6.0\ref\Example004_Div.dll
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.pdb
+D:\Geekbrains\Домашняя работа homework\Examples\Example004_Div\obj\Debug\net6.0\Example004_Div.genruntimeconfig.cache
